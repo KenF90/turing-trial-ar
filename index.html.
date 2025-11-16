@@ -10,7 +10,7 @@
     </style>
   </head>
   <body>
-    <a-scene embedded arjs>
+    <a-scene  embedded arjs>
       <a-marker type="pattern" url="marker.patt">
         <a-text value="Lounge. Minx. Plate." position="0 0.5 0" align="center" color="white"></a-text>
         <a-image src="Trigger 2.jpg   </a-marker>
